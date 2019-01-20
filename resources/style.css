@@ -25,6 +25,11 @@ p {
   font-size: 14px;
 }
 
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+
 .process,
 .work,
 .team,
